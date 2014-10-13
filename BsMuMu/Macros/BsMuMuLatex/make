@@ -1,3 +1,0 @@
-pdflatex BsMuMuCrossCheckAnalysis
-bibtex BsMuMuCrossCheckAnalysis 
-pdflatex BsMuMuCrossCheckAnalysis

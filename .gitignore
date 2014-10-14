@@ -1,2 +1,3 @@
-
-L1PixelAnalyzer/test/FileLists/VertexAlgo/QCD_All.cff
+*.pyc
+*~
+.ipynb_checkpoints

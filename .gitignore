@@ -1,3 +1,7 @@
 *.pyc
 *~
 .ipynb_checkpoints
+*.root
+weights
+*.d
+*.so

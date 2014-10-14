@@ -40,7 +40,7 @@ def canvas(name="icanvas", size=(800, 600)):
  
  
 def default_canvas(name="icanvas", size=(800, 600)):
-    """ depricated """
+    """ deprecated """
     return canvas(name=name, size=size)
  
  
